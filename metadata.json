@@ -1,0 +1,8 @@
+{
+  "name": "SubastaPro - Casa de Subastas y Venta Directa",
+  "description": "Plataforma profesional de subastas en vivo y compra directa con precio fijo, puja actual, precio mínimo de reserva y precio máximo garantizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
